@@ -1,3 +1,6 @@
+# custom
+*.tmp
+
 # Built application files
 *.apk
 *.ap_
